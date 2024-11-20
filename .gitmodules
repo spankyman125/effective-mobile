@@ -1,0 +1,6 @@
+[submodule "effective-mobile-users"]
+	path = effective-mobile-users
+	url = https://github.com/spankyman125/effective-mobile-users
+[submodule "effective-mobile-shop"]
+	path = effective-mobile-shop
+	url = https://github.com/spankyman125/effective-mobile-shop
